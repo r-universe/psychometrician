@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/psychometrician/psychometrician.r-universe.dev
 	branch = HEAD
+[submodule "gog"]
+	path = gog
+	url = https://github.com/psychometrician/gog
+	subdir = r-pkg/gog
