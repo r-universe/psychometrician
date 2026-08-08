@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/psychometrician/psychometrician.r-universe.dev
 	branch = HEAD
+[submodule "god"]
+	path = god
+	url = https://github.com/psychometrician/god
+	subdir = r-pkg/god
 [submodule "gog"]
 	path = gog
 	url = https://github.com/psychometrician/gog
