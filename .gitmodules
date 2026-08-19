@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/psychometrician/psychometrician.r-universe.dev
 	branch = HEAD
+[submodule "fathom"]
+	path = fathom
+	url = https://github.com/psychometrician/fathom
+	subdir = r-pkg/fathom
 [submodule "god"]
 	path = god
 	url = https://github.com/psychometrician/god
