@@ -13,4 +13,5 @@
 [submodule "gog"]
 	path = gog
 	url = https://github.com/psychometrician/gog
+	branch = release
 	subdir = r-pkg/gog
